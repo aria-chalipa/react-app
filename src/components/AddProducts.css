@@ -1,0 +1,33 @@
+.add-product-form{
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+.form-contorol input{
+    padding: 0.3rem;
+    background: #eee;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font: italic;
+    color: #000;
+}
+.form-contorol input:focus{
+
+    border: 10px !important;
+}
+.form-btn{
+    background: #3978EC;
+    margin: 0px 10px;
+    border: none;
+    border-radius: 10px;
+    font: italic;
+    padding: 10px 20px;
+    color: #fff;
+    font-weight: 700;
+    transition: all ease-in-out 0.3s;
+}
+.form-btn:hover{
+    background: #2a59af;
+    cursor: pointer;
+}

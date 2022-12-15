@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "title": "ata",
+      "id": 1
+    },
+    {
+      "title": "aria",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "id": 3
+    }
+  ]
+}

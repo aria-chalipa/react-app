@@ -1,0 +1,31 @@
+.Product{
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5em;
+    background-color: #3978EC;
+    border-radius: 25px;
+    color: rgb(255, 255, 255);
+    transition: all ease-in-out 0.3s;
+}
+.Product:hover{
+    background:#2a59af ;
+}
+.btn{
+    padding: 0.3rem 1rem;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    margin: 20px 0px;
+    transition: all ease-in-out 0.3s;
+}
+.btn:hover{
+    cursor: pointer;
+    background: #ec3939;
+    color: #fff;
+}
